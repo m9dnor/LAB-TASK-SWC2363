@@ -9,7 +9,7 @@ include("db.php");
 <body>
     
     <center>
-<h2> BUS ONLINE TICKET SYSTEM</h2>
+<h2> CONCERT ONLINE TICKET SYSTEM</h2>
 </center>
 
 
